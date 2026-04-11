@@ -32,12 +32,36 @@ header {
     color: #44453f;
 }
 
-footer {
-    position: absolute;
-    bottom: 0;
-    font-size: medium;
-    color: dimgrey;
+.search-container {
+    margin: 50px;
+    width: 300px;
 }
+
+.search-input {
+    width: 100%;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    outline: none;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+}
+
+    /* Эффект при наведении (hover) */
+    .search-input:hover {
+        border-color: #4CAF50;
+        box-shadow: 0 0 8px rgba(76, 175, 80, 0.3);
+        background-color: #f9fff9;
+    }
+
+    /* Эффект при фокусе (клике) */
+    .search-input:focus {
+        border-color: #2196F3;
+        box-shadow: 0 0 12px rgba(33, 150, 243, 0.4);
+        background-color: white;
+    }
+
 
 aside {
     height: 100%; /* Высота в полный размер. Этот параметр можно убрать, если вы хотите выставлять высоту автоматически */
@@ -65,7 +89,6 @@ header, footer, body, .video-container {
     background-color: darkcyan;
 }
 
-/* Стили футера */
 /* Стили футера */
 footer {
     position: absolute;
