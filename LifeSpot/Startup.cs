@@ -49,6 +49,14 @@ namespace LifeSpot
                     var js = await File.ReadAllTextAsync(jsPath);
                     await context.Response.WriteAsync(js);
                 });
+
+                endpoints.MapGet("/Static/JS/elementsCount.js", async context =>
+                {
+                    // Для JS настроим всё так же, как уже сделали для CSS выше.
+                    var jsPath = Path.Combine(Directory.GetCurrentDirectory(), "Static", "JS", "elementsCount.js");
+                    var js = await File.ReadAllTextAsync(jsPath);
+                    await context.Response.WriteAsync(js);
+                });
             });
         }
     }

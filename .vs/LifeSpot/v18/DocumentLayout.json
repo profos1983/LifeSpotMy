@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Code\\New\\LifeSpotMy\\",
+  "WorkspaceRootPath": "D:\\Git\\MyReps\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|c:\\code\\new\\lifespotmy\\lifespot\\static\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|solutionrelative:lifespot\\static\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|c:\\code\\new\\lifespotmy\\lifespot\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|d:\\git\\myreps\\lifespot\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|solutionrelative:lifespot\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|c:\\code\\new\\lifespotmy\\lifespot\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|d:\\git\\myreps\\lifespot\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|solutionrelative:lifespot\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|c:\\code\\new\\lifespotmy\\lifespot\\static\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|d:\\git\\myreps\\lifespot\\static\\js\\elementscount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|solutionrelative:lifespot\\static\\js\\elementscount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|d:\\git\\myreps\\lifespot\\static\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|solutionrelative:lifespot\\static\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|d:\\git\\myreps\\lifespot\\static\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EB3157F0-43E0-46C7-9771-F7B93A68A836}|LifeSpot\\LifeSpot.csproj|solutionrelative:lifespot\\static\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -38,48 +42,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Startup.cs",
-              "RelativeDocumentMoniker": "LifeSpot\\Startup.cs",
-              "ToolTip": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Startup.cs",
-              "RelativeToolTip": "LifeSpot\\Startup.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T18:08:09.035Z"
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Git\\MyReps\\LifeSpot\\Static\\JS\\index.js",
+              "RelativeDocumentMoniker": "LifeSpot\\Static\\JS\\index.js",
+              "ToolTip": "D:\\Git\\MyReps\\LifeSpot\\Static\\JS\\index.js",
+              "RelativeToolTip": "LifeSpot\\Static\\JS\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-27T18:07:25.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Static\\JS\\index.js",
-              "RelativeDocumentMoniker": "LifeSpot\\Static\\JS\\index.js",
-              "ToolTip": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Static\\JS\\index.js",
-              "RelativeToolTip": "LifeSpot\\Static\\JS\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Git\\MyReps\\LifeSpot\\Views\\index.html",
+              "RelativeDocumentMoniker": "LifeSpot\\Views\\index.html",
+              "ToolTip": "D:\\Git\\MyReps\\LifeSpot\\Views\\index.html*",
+              "RelativeToolTip": "LifeSpot\\Views\\index.html*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-26T13:59:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "elementsCount.js",
+              "DocumentMoniker": "D:\\Git\\MyReps\\LifeSpot\\Static\\JS\\elementsCount.js",
+              "RelativeDocumentMoniker": "LifeSpot\\Static\\JS\\elementsCount.js",
+              "ToolTip": "D:\\Git\\MyReps\\LifeSpot\\Static\\JS\\elementsCount.js",
+              "RelativeToolTip": "LifeSpot\\Static\\JS\\elementsCount.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-27T18:07:25.771Z",
+              "WhenOpened": "2026-05-02T14:52:32.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Views\\index.html",
-              "RelativeDocumentMoniker": "LifeSpot\\Views\\index.html",
-              "ToolTip": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Views\\index.html",
-              "RelativeToolTip": "LifeSpot\\Views\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-04-26T13:59:40.623Z"
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Git\\MyReps\\LifeSpot\\Startup.cs",
+              "RelativeDocumentMoniker": "LifeSpot\\Startup.cs",
+              "ToolTip": "D:\\Git\\MyReps\\LifeSpot\\Startup.cs",
+              "RelativeToolTip": "LifeSpot\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:49:51.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.css",
-              "DocumentMoniker": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Static\\CSS\\Index.css",
+              "DocumentMoniker": "D:\\Git\\MyReps\\LifeSpot\\Static\\CSS\\Index.css",
               "RelativeDocumentMoniker": "LifeSpot\\Static\\CSS\\Index.css",
-              "ToolTip": "C:\\Code\\New\\LifeSpotMy\\LifeSpot\\Static\\CSS\\Index.css",
+              "ToolTip": "D:\\Git\\MyReps\\LifeSpot\\Static\\CSS\\Index.css",
               "RelativeToolTip": "LifeSpot\\Static\\CSS\\Index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
